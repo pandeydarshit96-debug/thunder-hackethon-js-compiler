@@ -22,7 +22,7 @@ A JavaScript interpreter written in Python that reads JS-style code from the ter
 ```cmd
 python hello.py
 ```
-Type JS code line by line. Press **Ctrl+T** to execute.
+Type JS code line by line. Press **Ctrl+T** to execute (for Output).
 
 ### File Mode
 ```cmd

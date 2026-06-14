@@ -298,7 +298,10 @@ console.log(`Sum = ${sum}`);
 [2, 4]
 Sum = 15
 ```
-METHODS OF JS WHICH CAN EASILY RUN AND UNDERSTAND BY THIS CODE
+
+
+>>   **JavaScript methods that can be easily executed and understood by this code:**
+
 Variables let, var, const
 
 Operators +, -, *, /, %, ++, --, +=, -=, *=, /=, %=, ===, !==, ==, !=, <, >, <=, >=, &&, ||, !

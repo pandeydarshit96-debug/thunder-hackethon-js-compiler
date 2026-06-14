@@ -33,7 +33,7 @@ Get-Content yourfile.js | python hello.py
 | Key | Action |
 |---|---|
 | `Enter` | New line |
-| `Ctrl+T` | Run buffer |
+| `Ctrl+T` | for Run the code|
 | `↑ / ↓` | History navigation |
 | `← / →` | Cursor move |
 | `Backspace / Delete` | Delete character |

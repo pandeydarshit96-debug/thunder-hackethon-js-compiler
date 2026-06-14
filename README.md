@@ -300,7 +300,7 @@ Sum = 15
 ```
 
 
->>   **JavaScript methods that can be easily executed and understood by this code:**
+>> **JavaScript methods that can be easily executed and understood by this code:**
 
 Variables let, var, const
 

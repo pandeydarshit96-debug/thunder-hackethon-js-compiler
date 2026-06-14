@@ -298,3 +298,27 @@ console.log(`Sum = ${sum}`);
 [2, 4]
 Sum = 15
 ```
+METHODS OF JS WHICH CAN EASILY RUN AND UNDERSTAND BY THIS CODE
+Variables let, var, const
+
+Operators +, -, *, /, %, ++, --, +=, -=, *=, /=, %=, ===, !==, ==, !=, <, >, <=, >=, &&, ||, !
+
+Control Flow if, else if, else, switch, case, default, break, continue
+
+Loops for, while, do...while, for...of, for...in
+
+Functions function, arrow functions =>, recursive functions, return
+
+Array Methods push(), pop(), shift(), unshift(), splice(), slice(), concat(), reverse(), sort(), indexOf(), lastIndexOf(), includes(), join(), flat(), fill(), at(), map(), filter(), reduce(), find(), findIndex(), some(), every(), forEach(), Array.isArray()
+
+String Methods toUpperCase(), toLowerCase(), trim(), trimStart(), trimEnd(), split(), includes(), startsWith(), endsWith(), indexOf(), lastIndexOf(), slice(), substring(), substr(), replace(), replaceAll(), repeat(), padStart(), padEnd(), charAt(), charCodeAt(), at(), .length
+
+Object Methods Object.keys(), Object.values(), Object.entries(), Object.assign(), hasOwnProperty()
+
+Math Object Math.floor(), Math.ceil(), Math.round(), Math.abs(), Math.sqrt(), Math.pow(), Math.max(), Math.min(), Math.random(), Math.log(), Math.sin(), Math.cos(), Math.tan(), Math.trunc(), Math.sign(), Math.PI, Math.E
+
+Date Object new Date(), getFullYear(), getMonth(), getDate(), getDay(), getHours(), getMinutes(), getSeconds(), getTime(), toString(), toISOString(), toLocaleDateString()
+
+Other Features typeof, ternary ? :, template literals ` `, spread operator ..., parseInt(), parseFloat(), isNaN(), isFinite(), Number(), String(), Boolean(), console.log()
+
+Error Types ReferenceError, TypeError, RangeError, SyntaxError
